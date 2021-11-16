@@ -12,3 +12,4 @@ It has been referenced from https://github.com/Nishanksingla/UNet-with-ResBlock 
 ![my_resunet](https://user-images.githubusercontent.com/73664577/142017799-193c0a8a-711e-4d43-a590-8d9b52f2e935.png)
 
 ## Results
+The estimated GPP by the model is visualized as follows-
