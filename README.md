@@ -3,7 +3,8 @@ Gross Primary Productivity(GPP) is the measure of total carbon fixed by plants i
 
 The data is in the form of iris cubes and has been taken from two Earth System Models- UK Earth System Modelling Project (UKESM) and Beijing Climate Center Earth System Model version 1 (BCC-ESM1).
 
-The neural network architecture 
+## Architecture
+The CNN is based on UNet architecture with Resblocks. 
 
 
 
