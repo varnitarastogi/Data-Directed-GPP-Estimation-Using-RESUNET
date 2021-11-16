@@ -5,6 +5,7 @@ The data is in the form of iris cubes and has been taken from two Earth System M
 
 ## Architecture
 The CNN is based on UNet architecture with Resblocks. 
+It has been referenced from https://github.com/Nishanksingla/UNet-with-ResBlock .
 
 
 
